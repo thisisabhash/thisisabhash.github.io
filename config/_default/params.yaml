@@ -11,13 +11,13 @@ appearance:
 # SEO
 marketing:
   seo:
-    site_type: Person
+    site_type: ''
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo résumé theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: ''
+    twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-51XZ896PDR'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
@@ -35,7 +35,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
