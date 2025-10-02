@@ -40,7 +40,7 @@ profiles:
   #  url: https://www.instagram.com/
 
 education:
-  - area: MS in Computer Science
+  - area: M.S. in Computer Science
     institution: University of Wisconsin - Madison
     date_start: 2019
     date_end: 2020
@@ -49,7 +49,7 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: BE(Hons.) in Computer Science
+  - area: B.E.(Hons.) in Computer Science
     institution: Birla Institute of Technology and Science - Pilani
     date_start: 2010
     date_end: 2014
@@ -164,4 +164,4 @@ I relocated to Seattle, WA,  after getting my Masters in Computer Science at Uni
 
 I earned my Bachelors of Engineering in Computer Science from Birla Institute of Technology and Science - Pilani in 2014. Following that, I held Android development roles at Samsung and TiVo, where I developed consumer facing apps in diverse fields like Connected Car (IoT) and Media / Entertainment. 
 
-Outside of work, I enjoy cooking, visiting parks on weekends, playing with my cat and following soccer. Recently, I have been trying my hands on baking too. 
+Outside of work, I enjoy cooking, visiting parks on weekends, spending time with my wife and two cats, and following soccer. Recently, I have been trying my hands on baking too. 
